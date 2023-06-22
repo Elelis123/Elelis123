@@ -9,7 +9,8 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-  
+
+- 🏫: I am a student of the professional career of engineering in telecommunications of the National University San Agustin de Arequipa.
 - 🏫: I'm a sophomore in college.
 - 🔭: I currently do work with python and matlab.
 - 🌱: I am currently learning the python programming language.🧠💻🤖
